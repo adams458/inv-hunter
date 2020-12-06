@@ -1,0 +1,7 @@
+---
+max_price: 100 # dollars/euros/etc
+refresh_interval: 20 # seconds
+urls:
+  - https://www.amazon.com/gp/product/B08FBPMDST/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08FBPMDST&linkCode=as2&tag=leonhart-20&linkId=384df04d33f41ec9f957c103fd009562
+  - 
+...
