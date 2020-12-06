@@ -1,0 +1,7 @@
+---
+max_price: 400 # dollars/euros/etc
+refresh_interval: 2 # seconds
+urls:
+  - https://www.pokemoncenter.com/product/701-08428/pikachu-pokemon-winter-carnival-poke-plush-7-3-4-in
+  - https://www.pokemoncenter.com/product/701-08427/scorbunny-pokemon-winter-carnival-poke-plush-8-1-4-in
+...
